@@ -17,7 +17,7 @@ Installation is simple. It can be installed from git using the following command
 $ pkg install python
 $ pkg install git
 $ pip install requests
-$ git clone https://github.com/huutvpn/xl-py
+$ git clone https://github.com/sikivpn/xl-py
 ```
 
 ## Usage
@@ -29,4 +29,4 @@ $ python app.py
 
 ### Examples
 
-All examples can be found [here](https://github.com/huutvpn/xl-py/tree/master/examples).
+All examples can be found [here](https://github.com/sikivpn/xl-py/tree/master/examples).
